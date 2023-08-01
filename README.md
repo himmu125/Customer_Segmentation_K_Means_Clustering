@@ -4,10 +4,10 @@ In this project I have trained a K-Means Clustering model for Customer Segmentat
 
 Description of the code : Libraries used : numpy, pandas, sklearn, matplotlib.pyplot and seaborn
 
-Data Collection and Cleaning
-Choosing number of clusters with WCSS
-Plotting an Elbow Point graph
-Training K-Means Clustetring model with optimum number of clusters
-Visualizing all the clusters
+1. Data Collection and Cleaning
+2. Choosing number of clusters with WCSS
+3. Plotting an Elbow Point graph
+4. Training K-Means Clustetring model with optimum number of clusters
+5. Visualizing all the clusters
 
 Thank You
